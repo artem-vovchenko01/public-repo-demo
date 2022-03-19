@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x 1 Artem 197121 0 мар 19 13:00 ./
+drwxr-xr-x 1 Artem 197121 0 мар 19 00:12 ../
+drwxr-xr-x 1 Artem 197121 0 мар 19 12:59 .git/
+-rw-r--r-- 1 Artem 197121 0 мар 19 13:00 ls.txt
